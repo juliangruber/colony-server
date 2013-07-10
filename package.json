@@ -1,0 +1,30 @@
+{
+  "name": "colony-server",
+  "description": "colony server",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/colony-server.git"
+  },
+  "homepage": "https://github.com/juliangruber/colony-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {
+    "ecstatic": "~0.4.5",
+    "colony": "0.0.3"
+  },
+  "devDependencies": {
+    "tape": "*"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
