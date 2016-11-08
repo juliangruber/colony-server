@@ -12,8 +12,8 @@
     "test": "tape test/*.js"
   },
   "dependencies": {
-    "ecstatic": "~0.4.5",
-    "colony": "0.0.3"
+    "ecstatic": "~2.1.0",
+    "colony": "0.0.7"
   },
   "devDependencies": {
     "tape": "*"
