@@ -16,7 +16,7 @@
     "colony": "0.0.7"
   },
   "devDependencies": {
-    "tape": "*"
+    "tape": ">=4.6.3"
   },
   "keywords": [
     ""
